@@ -15,5 +15,5 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-![UIDesign](https://github.com/Bucerella/PokedexJSON/blob/master/images/ss1.png)
-![UIDesign](https://github.com/Bucerella/PokedexJSON/blob/master/images/ss1.png)
+![UIDesign](https://github.com/Bucerella/UIDesign/blob/master/images/ss1.png)
+![UIDesign](https://github.com/Bucerella/UIDesign/blob/master/images/ss1.png)
